@@ -1,0 +1,3 @@
+@echo off
+echo Starting Auto-Analytics Engine...
+streamlit run app.py
